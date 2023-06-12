@@ -1,0 +1,392 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/characters/CharacterStatus/CharacterStatus.module.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.CharacterStatus_status__cjlR7 {
+  display: inline-block;
+  height: 0.5rem;
+  width: 0.5rem;
+  margin-right: 0.375rem;
+  border-radius: 50%;
+}
+
+.CharacterStatus_alive__8Slxa {
+  background: rgb(85, 204, 68);
+}
+
+.CharacterStatus_dead__tBQen {
+  background: rgb(214, 61, 46);
+}
+
+.CharacterStatus_unknown__JsVIs {
+  background: rgb(158, 158, 158);
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/characters/CharacterCard/CharacterCard.module.scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.CharacterCard_container__01REt {
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+  overflow: hidden;
+  background-color: #3c3e44;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+@media only screen and (min-width: 700px) {
+  .CharacterCard_container__01REt {
+    width: 500px;
+    flex-direction: row;
+  }
+}
+
+.CharacterCard_image_container__9wXDP {
+  width: 100%;
+  height: 300px;
+  position: relative;
+}
+.CharacterCard_image_container__9wXDP img {
+  width: 100%;
+  object-position: center center;
+  object-fit: cover;
+}
+@media only screen and (min-width: 700px) {
+  .CharacterCard_image_container__9wXDP {
+    height: 150px;
+    width: 150px;
+  }
+}
+
+.CharacterCard_info__jqMi2 {
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.CharacterCard_data__shNlQ {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/buttons/Button/Button.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.Button_button__Ac65Y {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  padding: 7px 15px;
+  border: 1.5px solid #9e9e9e;
+  border-radius: 10px;
+  background-color: inherit;
+  transition: 0.2s;
+}
+.Button_button__Ac65Y:enabled:hover {
+  transform: scale(1.01);
+  border: 1.5px solid #2cde00;
+}
+.Button_button__Ac65Y:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.Button_start_icon__MjguW,
+.Button_end_icon__MYddD {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Button_start_icon__MjguW svg,
+.Button_end_icon__MYddD svg {
+  fill: #9e9e9e;
+  width: 24px;
+  height: 24px;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/buttons/IconButton/IconButton.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.IconButton_button__d8D7Z {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+  padding: 7px 15px;
+  border: 1.5px solid #9e9e9e;
+  border-radius: 10px;
+  background-color: inherit;
+  transition: 0.2s;
+}
+.IconButton_button__d8D7Z:enabled:hover {
+  transform: scale(1.01);
+  border: 1.5px solid #2cde00;
+}
+.IconButton_button__d8D7Z:disabled {
+  cursor: default;
+  opacity: 0.5;
+}
+
+.IconButton_icon__KBZIv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.IconButton_icon__KBZIv svg {
+  fill: #9e9e9e;
+  width: 24px;
+  height: 24px;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/Pagination/Pagination.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.Pagination_pagination__i3GX9 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+@media only screen and (min-width: 700px) {
+  .Pagination_pagination__i3GX9 {
+    justify-content: left;
+  }
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/episodes/EpisodeCard/EpisodeCard.module.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.EpisodeCard_container__5NeUU {
+  padding: 10px;
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+  overflow: hidden;
+  background: #3c3e44;
+  border-radius: 10px;
+}
+@media only screen and (min-width: 700px) {
+  .EpisodeCard_container__5NeUU {
+    width: 500px;
+    flex-direction: row;
+  }
+}
+
+.EpisodeCard_info__jvufy {
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/Filter/Filter.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.Filter_filters_form__ZzEQU {
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+
+.Filter_filter_input_container__pz8HG {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.Filter_filter_input_container__pz8HG div {
+  display: flex;
+  gap: 10px;
+}
+.Filter_filter_input_container__pz8HG div input {
+  color: #ffffff;
+  font-size: 16px;
+  padding: 7px 15px;
+  border: 1.5px solid #9e9e9e;
+  border-radius: 10px;
+  background-color: inherit;
+  transition: 0.2s;
+}
+
+.Filter_filter_toggles_container__3VDTX ul {
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+.Filter_filter_toggles_container__3VDTX ul li {
+  color: #ffffff;
+  font-size: 12px;
+  padding: 5px 15px;
+  border: 1.5px solid #9e9e9e;
+  border-radius: 20px;
+  background-color: inherit;
+  transition: 0.2s;
+}
+.Filter_filter_toggles_container__3VDTX ul li:hover {
+  transform: scale(1.01);
+  border: 1.5px solid #2cde00;
+}
+.Filter_filter_toggles_container__3VDTX ul li[aria-selected=true] {
+  border: 1.5px solid #2cde00;
+}
+.Filter_filter_toggles_container__3VDTX input {
+  display: none;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/skeletons/SkeletonCard/SkeletonCard.module.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+/* text */
+/* background */
+/* primary */
+.SkeletonCard_skeleton__5CowC, .SkeletonCard_container__Lt64c {
+  display: inline-block;
+  height: 1em;
+  position: relative;
+  overflow: hidden;
+  background-color: #3c3e44;
+}
+.SkeletonCard_skeleton__5CowC::after, .SkeletonCard_container__Lt64c::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  transform: translateX(-100%);
+  background-image: linear-gradient(90deg, rgba(158, 158, 158, 0) 0, rgba(158, 158, 158, 0.1) 20%, rgba(158, 158, 158, 0.3) 40%, rgba(158, 158, 158, 0));
+  animation: SkeletonCard_shimmer__ZlhnU 1.6s infinite;
+  content: "";
+}
+@keyframes SkeletonCard_shimmer__ZlhnU {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.SkeletonCard_container__Lt64c {
+  height: 300px;
+  width: 100%;
+  border-radius: 10px;
+}
+@media only screen and (min-width: 700px) {
+  .SkeletonCard_container__Lt64c {
+    width: 500px;
+    height: 150px;
+    flex-direction: row;
+  }
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/locations/LocationCard/LocationCard.module.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.LocationCard_container__ZDzrD {
+  padding: 10px;
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+  overflow: hidden;
+  background: #3c3e44;
+  border-radius: 10px;
+}
+@media only screen and (min-width: 700px) {
+  .LocationCard_container__ZDzrD {
+    width: 500px;
+    flex-direction: row;
+  }
+}
+
+.LocationCard_info__hBCo0 {
+  padding: 10px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/layout/Header/Header.module.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.Header_header__Szy8R {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 30px 0;
+}
+
+.Header_logo__NvaF1 {
+  fill: #ffffff;
+}
+
+.Header_links__NO30A {
+  display: flex;
+  gap: 10px;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/layout/Footer/Footer.module.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.Footer_footer__xfMMF {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  gap: 20px;
+  padding: 30px 0;
+}
+
+.Footer_counts__1bt_j {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.Footer_links__aXupM {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.Footer_links__aXupM li {
+  display: flex;
+  justify-content: center;
+}
+/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[2].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[2].oneOf[9].use[5]!./src/components/layout/Breadcrumbs/Breadcrumbs.module.scss ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* text */
+/* background */
+/* primary */
+.Breadcrumbs_breadcrumbs___DV1v {
+  display: flex;
+  gap: 5px;
+  color: #ffffff;
+}

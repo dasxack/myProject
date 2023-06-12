@@ -1,0 +1,58 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/error": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/error.js"
+    ],
+    "/not-found": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/not-found.js"
+    ],
+    "/(dynamic)/games/died-alive-unknown/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(dynamic)/games/died-alive-unknown/page.css",
+      "static/chunks/app/(dynamic)/games/died-alive-unknown/page.js"
+    ],
+    "/(dynamic)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(dynamic)/layout.js"
+    ],
+    "/(dynamic)/games/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(dynamic)/games/layout.css",
+      "static/chunks/app/(dynamic)/games/layout.js"
+    ],
+    "/(dynamic)/characters/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(dynamic)/characters/page.js"
+    ],
+    "/(dynamic)/characters/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(dynamic)/characters/layout.css",
+      "static/chunks/app/(dynamic)/characters/layout.js"
+    ],
+    "/(dynamic)/characters/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(dynamic)/characters/loading.js"
+    ]
+  }
+}

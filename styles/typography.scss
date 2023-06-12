@@ -1,0 +1,44 @@
+@import '/styles/variables.scss';
+
+.banner {
+  color: $title;
+
+  font-weight: 900;
+  font-size: 60px;
+  background: linear-gradient(to bottom left, white, rgb(240, 240, 8), red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.title-1 {
+  color: $title;
+  font-weight: 900;
+  font-size: 20px;
+}
+
+.title-2 {
+  @extend .title-1;
+  font-size: 17px;
+}
+
+.sub-title-1 {
+  color: $body-secondary;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.sub-title-2 {
+  @extend .sub-title-1;
+  font-size: 14px;
+}
+
+.body-1 {
+  color: $body-secondary;
+  font-size: 16px;
+  font-weight: 200;
+}
+
+.body-2 {
+  @extend .body-1;
+  font-size: 14px;
+}

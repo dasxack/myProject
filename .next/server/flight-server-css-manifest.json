@@ -1,0 +1,78 @@
+{
+  "cssImports": {
+    "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\layout.tsx": [
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\styles\\globals.scss"
+    ],
+    "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\layout.tsx": [
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\layout.module.scss"
+    ],
+    "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\died-alive-unknown\\page.tsx": [
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\died-alive-unknown\\steps\\WriteNameStep\\WriteNameStep.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\died-alive-unknown\\page.module.scss"
+    ],
+    "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\characters\\layout.tsx": [
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterStatus\\CharacterStatus.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterCard\\CharacterCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\Button\\Button.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\IconButton\\IconButton.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Pagination\\Pagination.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\episodes\\EpisodeCard\\EpisodeCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Filter\\Filter.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\skeletons\\SkeletonCard\\SkeletonCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\locations\\LocationCard\\LocationCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Header\\Header.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Footer\\Footer.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Breadcrumbs\\Breadcrumbs.module.scss"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\page": [
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterStatus\\CharacterStatus.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterCard\\CharacterCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\Button\\Button.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\IconButton\\IconButton.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Pagination\\Pagination.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\episodes\\EpisodeCard\\EpisodeCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Filter\\Filter.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\skeletons\\SkeletonCard\\SkeletonCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\locations\\LocationCard\\LocationCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Header\\Header.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Footer\\Footer.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Breadcrumbs\\Breadcrumbs.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\styles\\globals.scss"
+    ],
+    "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\died-alive-unknown\\page": [
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\layout.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterStatus\\CharacterStatus.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterCard\\CharacterCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\Button\\Button.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\IconButton\\IconButton.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Pagination\\Pagination.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\episodes\\EpisodeCard\\EpisodeCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Filter\\Filter.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\skeletons\\SkeletonCard\\SkeletonCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\locations\\LocationCard\\LocationCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Header\\Header.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Footer\\Footer.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Breadcrumbs\\Breadcrumbs.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\styles\\globals.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\died-alive-unknown\\steps\\WriteNameStep\\WriteNameStep.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\games\\died-alive-unknown\\page.module.scss"
+    ],
+    "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\app\\(dynamic)\\characters\\page": [
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterStatus\\CharacterStatus.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\characters\\CharacterCard\\CharacterCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\Button\\Button.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\buttons\\IconButton\\IconButton.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Pagination\\Pagination.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\episodes\\EpisodeCard\\EpisodeCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\Filter\\Filter.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\skeletons\\SkeletonCard\\SkeletonCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\locations\\LocationCard\\LocationCard.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Header\\Header.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Footer\\Footer.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\src\\components\\layout\\Breadcrumbs\\Breadcrumbs.module.scss",
+      "C:\\Users\\DsXack\\vscode\\Новая папка\\myProject\\styles\\globals.scss"
+    ]
+  }
+}
